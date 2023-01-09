@@ -2,7 +2,7 @@
 Como desenvolvedor mobile full stack, aplico meus conhecimentos e estudos para resolver problemas reais. Gosto da experiência de trabalhar com feedback dos usuários para melhorar e aplicar qualidade aos meus projetos.
 
 
-## 🌐 Socials:
+## 🌐 Sociais:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/FQTQCqNT) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/xanddy.santos.52) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alexandre94s/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alexandre-sobral-santos-a42a05203/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20961341/alexandre-sobral) 
 
 # 💻 Tech Stack:
@@ -12,7 +12,7 @@ Como desenvolvedor mobile full stack, aplico meus conhecimentos e estudos para r
 ![](https://github-readme-streak-stats.herokuapp.com/?user=alexandress94&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandress94&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Troféus
 ![](https://github-profile-trophy.vercel.app/?username=alexandress94&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Frase aleatório de DEV
